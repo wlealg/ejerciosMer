@@ -9,12 +9,12 @@ function Menu() {
         <ul className="menu-list">
           <li>
             <Link to="/ejercicio1">
-              <button className="menu-button">Ejercicio 1</button>
+              <button className="menu-button">Ejercicio Uno</button>
             </Link>
           </li>
           <li>
             <Link to="/ejercicio2">
-              <button className="menu-button">Ejercicio 2</button>
+              <button className="menu-button">Ejercicio Dos</button>
             </Link>
           </li>
           <li>
